@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "579500131213",
+    "firebase_url": "https://accountbook-9c915.firebaseio.com",
+    "project_id": "accountbook-9c915",
+    "storage_bucket": "accountbook-9c915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579500131213:android:4e38f3285ddbec832973c4",
+        "android_client_info": {
+          "package_name": "com.codestar.accountbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579500131213-4baaitknre8v17hv28s6m3tn9cdfoi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcundw-X1dD4XCOSOhbBrvjBkG0YRO75o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579500131213-4baaitknre8v17hv28s6m3tn9cdfoi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
