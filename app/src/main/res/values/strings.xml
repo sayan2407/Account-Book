@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AccountBook</string>
+    <string name="name">Account Book</string>
+    <string name="splash_text1">100% Trusted</string>
+    <string name="splash_text2">Welcome to Account Book</string>
+    <string name="splash_text3">Manage Your Business</string>
 </resources>
