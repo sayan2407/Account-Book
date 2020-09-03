@@ -4,4 +4,6 @@
     <string name="splash_text1">100% Trusted</string>
     <string name="splash_text2">Welcome to Account Book</string>
     <string name="splash_text3">Manage Your Business</string>
+    <string name="home">Home</string>
+    <string name="more">More</string>
 </resources>
